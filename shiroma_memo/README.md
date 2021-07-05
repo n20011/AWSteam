@@ -3,14 +3,14 @@ AWSを使っていて遭遇したコマンドを自分のメモ用としてGit�
 資料を見たら誰でもできる資料の素材に使えるかも？
 
 ## ssh command
-### 制作したサーバーに接続するために使う
+制作したサーバーに接続するために使う  
 `ssh -i [プライベートkey] [user名]@[パブリックIPv4]`
 
 <br>
 <br>
 
 ## scp command
-### サーバーへデータを転送するために使う
+サーバーへデータを転送するために使う  
 `scp -i [プライベートkey] [転送したいファイル] [user名]@[パブリックIPv4]:[転送先の指定]]`
 
 <br>
@@ -22,25 +22,25 @@ AWSを使っていて遭遇したコマンドを自分のメモ用としてGit�
 # サーバー起動後編
   
 ## screen command 
-### コマンドプロントを閉じても起動したままにするために使う
+コマンドプロントを閉じても起動したままにするために使う  
 `LD_LIBRARY_PATH=. screen ./bedrock_server`
   
 停止するには以下のコマンドを行う  
   
-3~4桁の番号を確認する
+3~4桁の番号を確認する  
 `screen -ls`
  
- セッションに接続 
+ セッションに接続   
 `screen -r [番号]`
   
-stopと入力しサーバーを終了できる
+stopと入力しサーバーを終了できる  
 `stop`
 
 <br>
 <br>
 
 ## マインクラフトの詳細設定
-[参照先](https://minecraft.server-memo.net/server-properties/)
+[こちらの記事を参考にしてます](https://minecraft.server-memo.net/server-properties/)
 
 <br>
 <br>
