@@ -20,6 +20,10 @@ AWSを使っていて遭遇したコマンドを自分のメモ用としてGit�
 <br>
 
 # サーバー起動後編
+## chmod command
+chmodでbedrock_serverの権限を変更しないとscreenが使えません。なので、  
+`chmod 700 bedrock_server`  
+これで使えるようになります。
   
 ## screen command 
 コマンドプロントを閉じても起動したままにするために使う  
