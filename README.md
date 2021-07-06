@@ -13,6 +13,6 @@
 
 - [スケジュール](./docs/Schedule.md)
 - [企画書](./docs/Proposal.md)
-- [仕様書]
+- [仕様書](./docs/Specification.md)
 - [ソース]
 - [プレゼンテーション]
