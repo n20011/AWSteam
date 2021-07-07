@@ -43,9 +43,9 @@ stopと入力しサーバーを終了できる
 <br>
 <br>
 
-## マインクラフトの詳細設定
-[こちらの記事を参考にしてます](https://minecraft.server-memo.net/server-properties/)
-
+## わからないことなどを参考にさせてもらっている記事
+- [server.proprties](https://lifework-blog.com/minecraft-setting-bedrock-server/)  
+- [screen command](lhttps://qiita.com/hnishi/items/3190f2901f88e2594a5f)
 <br>
 <br>
 
