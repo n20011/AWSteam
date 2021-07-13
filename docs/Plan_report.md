@@ -31,7 +31,7 @@ CPU稼働率 平均70%
 
 1ヶ月 18.56USD -> 約2000円  
 2ヶ月 運用予定  
-[料金見積もり](https://calculator.aws/#/estimate?id=2937dc15cf4765d5ccae9acbcb12744ee4773020)
+<!-- [料金見積もり](https://calculator.aws/#/estimate?id=2937dc15cf4765d5ccae9acbcb12744ee4773020) -->
 
 イベントの景品 Amazonギフト券 3000~5000円分
 
