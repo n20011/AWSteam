@@ -16,6 +16,8 @@
 			- 蛍光灯
 			- 教室
 			- カバン
+
+<!----- None 
 - PvP
 	- score
 		| Life or death | Points |
@@ -24,6 +26,8 @@
 		| 1Death | -5 |
 	- play_time
 		- 1試合20分*2
+----->
+
 - アスレチック
 	- course
 		- 1ステージ40分程度のコース
