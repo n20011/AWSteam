@@ -2,6 +2,20 @@
 
 ## AWSでインスタンスの作成
 
+1. AWS
+	1. awsと検索し[公式サイト](https://aws.amazon.com/jp/)を開く
+	1. コンソールにサインイン(アカウントを持っていない方は[こちら](https://www.google.com/aclk?sa=L&ai=DChcSEwiz9522lMTzAhUGWmAKHV5OBrkYABAAGgJ0bQ&ae=2&sig=AOD64_0zbeTptPLVqLsFcfy3uqOIOcXySw&q&adurl&ved=2ahUKEwigqpi2lMTzAhUEGqYKHV9TCoQQ0Qx6BAgCEAE)から作成してログイン)
+	1. EC2と検索を掛けて**EC2**を開く
+1. インスタンスの作成
+	1. 左側のメニューから**インスタンス**に移動
+	1. **インスタンス**を起動をクリック
+		1. OSを選択する画面が出るので**Ubuntu Server 20.04**を選択
+		1. インスタンスタイプの選択は今回は**t2.micro**で次のステップへ
+		1. インスタンスの詳細設定は今回変更しないので次のステップへ
+		1. ストレージの追加も今回はそのままで大丈夫なので次のステップへ
+		1. タグの追加からタグを追加します｡
+		![タグの追加の例](./../images/add_tag.png)
+1. インスタンスを起動をクリック
 1. インスタンスの作成(この時点で鍵ファイルを作れるので､作ってDL)
 1. Elastic IPを取得し､インスタンスと関連付ける
 
